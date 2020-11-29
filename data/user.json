@@ -67,7 +67,10 @@
 	{"nickname":"\u53f6\u666f\u7199","username":"user065","official":1,"gender":0},
 	{"nickname":"\u7f57\u4fca\u9f99","username":"user066","official":1,"gender":0},
 	{"nickname":"\u7f57\u6c81\u5b50","username":"user067","official":1,"gender":0},
-	{"nickname":"\u674e\u6d69\u950b","username":"user068","official":1,"gender":0}
-
+	{"nickname":"team087","username":"team087","official":0,"gender":0},
+	{"nickname":"team080","username":"team080","official":0,"gender":0},
+	{"nickname":"team081","username":"team081","official":0,"gender":0},
+	{"nickname":"team085","username":"team085","official":0,"gender":0},
+	{"nickname":"team092","username":"team092","official":0,"gender":0}
 	]
 }
